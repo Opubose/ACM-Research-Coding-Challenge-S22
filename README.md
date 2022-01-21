@@ -1,5 +1,7 @@
 # ACM Research Coding Challenge (Spring 2022)
 
+#### Submission by Agastya Bose
+
 ## Explanation
 
 This was my first time working with machine learning/data science. I have used Python in the past, but not with Jupyter Notebooks. There definitely was a bit of a learning curve here for me — you might have noticed that when I went a little bit ham with the slightly excessive amount of markdown cells created and used. Oh well.
